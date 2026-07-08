@@ -13,15 +13,15 @@ const Navbar = () => {
     },
     {
       name: "How To Buy",
-      href: "howtobuy",
+      href: "/howtobuy",
     },
     {
       name: "Token",
-      href: "token",
+      href: "/token",
     },
     {
       name: "Road Map",
-      href: "roadmap",
+      href: "/roadmap",
     },
 
     {
@@ -31,11 +31,11 @@ const Navbar = () => {
     },
     {
       name: "F.A.Q",
-      href: "faq",
+      href: "/faq",
     },
     {
       name: "Contact Us",
-      href: "contact",
+      href: "/contact",
     },
   ];
 
